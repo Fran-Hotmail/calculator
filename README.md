@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/AZ400-01/Calculator/_apis/build/status/Fran-Hotmail.calculator?branchName=master)](https://dev.azure.com/AZ400-01/Calculator/_build/latest?definitionId=3&branchName=master)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
